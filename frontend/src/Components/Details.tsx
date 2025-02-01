@@ -3,7 +3,7 @@ import { useTheme } from "../Context/Theme";
 import { useProblems } from "../Context/ProblemsContext";
 import { useNavigate, useParams } from "react-router-dom";
 import upArrow from "../assets/Pictures/Svg/UpArrow.svg";
-import downArrow from "../assets/Pictures/Svg/downArrow.svg";
+import downArrow from "../assets/Pictures/Svg/DownArrow.svg";
 import back from "../assets/Pictures/Svg/Back.svg";
 
 function Details() {
